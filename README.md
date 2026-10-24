@@ -16,7 +16,8 @@ Sistema robusto para la administración del talento humano, control de asistenci
 `Laravel` `Blade` `PHP` `MySQL`
 
 ### 🏪 MultiMarket POS
-Sistema de Punto de Venta (POS) diseñado para la agilidad operativa en comercios. Enfocado en la eficiencia de transacciones, manejo de inventario en tiempo real y facilidad de uso para el operador. Cuenta con **API propia**, **backups automáticos de la base de datos** y **replicación del servidor físico hacia la nube mediante túnel reverso**.
+Sistema de Punto de Venta (POS) diseñado para la agilidad operativa en comercios. Enfocado en la eficiencia de transacciones, manejo de inventario en tiempo real y facilidad de uso para el operador.
+Incluye **estaciones de autopago**, **estaciones de pesado y etiquetado**, **API propia**, **backups automáticos de la base de datos** y **replicación del servidor físico hacia la nube mediante túnel reverso**.
 `C#` `.NET` `WPF` `PostgreSQL` `PL/pgSQL`
 
 ### 📊 Reportes de Ventas KLK
