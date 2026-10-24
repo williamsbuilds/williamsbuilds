@@ -1,7 +1,7 @@
 # Williams Romero 👋
 **Desarrollador Multiplataforma | PHP • Python • C# • Dart • Laravel • Django • .NET**
 
-Desarrollador enfocado en soluciones empresariales robustas y escalables, con amplia experiencia liderando proyectos de gestión comercial y puntos de venta. Construyo de punta a punta: el sistema, su web, las apps móviles y la integración con hardware (impresoras fiscales, lectores biométricos y terminales de pago).
+Desarrollador enfocado en soluciones empresariales robustas y escalables, con amplia experiencia liderando proyectos de gestión comercial y puntos de venta. Construyo de punta a punta: el sistema, su web, las apps móviles y la integración con hardware (impresoras fiscales, lectores biométricos y terminales de pago) y el despliegue de la infraestructura que lo sostiene.
 
 ## 🚀 Proyectos que estoy liderando
 
@@ -9,15 +9,15 @@ Desarrollador enfocado en soluciones empresariales robustas y escalables, con am
 
 ### 🛒 SICOM / SICOM Postgre SQL
 Plataforma integral para la gestión de compras, inventario y ventas. Cuenta con algoritmos avanzados de sugerencia de pedidos basados en rendimiento de ventas y una interfaz altamente optimizada para dispositivos móviles (responsive).
-`PHP` `MySQL` `PostgreSQL`
+`PHP` `Laravel` `MySQL` `PostgreSQL`
 
 ### 👥 SIGH
 Sistema robusto para la administración del talento humano, control de asistencia en tiempo real y automatización de procesos de nómina complejos, garantizando precisión y cumplimiento administrativo.
 `Laravel` `Blade` `PHP` `MySQL`
 
 ### 🏪 MultiMarket POS
-Sistema de Punto de Venta (POS) diseñado para la agilidad operativa en comercios. Enfocado en la eficiencia de transacciones, manejo de inventario en tiempo real y facilidad de uso para el operador.
-`PostgreSQL` `PL/pgSQL` `PHP`
+Sistema de Punto de Venta (POS) diseñado para la agilidad operativa en comercios. Enfocado en la eficiencia de transacciones, manejo de inventario en tiempo real y facilidad de uso para el operador. Cuenta con **API propia**, **backups automáticos de la base de datos** y **replicación del servidor físico hacia la nube mediante túnel reverso**.
+`C#` `.NET` `WPF` `PostgreSQL` `PL/pgSQL`
 
 ### 📊 Reportes de Ventas KLK
 Herramienta especializada en el análisis y visualización de datos de ventas. Permite transformar datos crudos en métricas accionables para la toma de decisiones estratégicas.
@@ -75,9 +75,9 @@ Portal cautivo para redes WiFi gestionadas con equipos **Ruijie**, con **autenti
 
 ### 🛠️ Core Stack
 - **Web:** Laravel, Django, WordPress.
-- **Mobile & Desktop:** Dart (Flutter), .NET, C#.
+- **Mobile & Desktop:** Dart (Flutter), .NET, C#, WPF.
 - **Bases de Datos:** PostgreSQL, MySQL, SQL Server, Firebird.
-- **Infraestructura:** Linux, nginx, Redis, Cloudflare.
+- **Nube e Infraestructura:** AWS (Windows Server), DigitalOcean (VPS/Droplets), Linux, nginx, Redis, Cloudflare.
 
 ---
 
